@@ -1,1 +1,1 @@
-git add . && git commit -m "git.sh auto-commit" && git push
+git add . && git commit -m "git.sh auto-commit" && git remote -v && git push origin
