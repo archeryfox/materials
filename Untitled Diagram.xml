@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T19:17:17.755Z" agent="5.0 (Windows)" etag="0LfDYItiK3qjLCkkX1Fg" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-12T20:27:54.669Z" agent="5.0 (Windows)" etag="HlIf4gycgEN2xVhPSroB" version="20.8.20" type="github">
   <diagram name="Page-1" id="R-CLL7xmCVhV-LdTGv9L">
-    <mxGraphModel dx="418" dy="228" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1200" dy="656" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1527" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,7 +252,7 @@
         <mxCell id="0DGqWHCx-BVa36cX0bzt-81" value="id: int(10) NOT NULL" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;fontColor=#393C56;strokeWidth=2;" vertex="1" parent="0DGqWHCx-BVa36cX0bzt-80">
           <mxGeometry y="26" width="185.28" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0DGqWHCx-BVa36cX0bzt-95" value="WorkDays" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;fontColor=#393C56;strokeWidth=2;" vertex="1" parent="0DGqWHCx-BVa36cX0bzt-80">
+        <mxCell id="0DGqWHCx-BVa36cX0bzt-95" value="work_days: int(10)  " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;fontColor=#393C56;strokeWidth=2;" vertex="1" parent="0DGqWHCx-BVa36cX0bzt-80">
           <mxGeometry y="56" width="185.28" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0DGqWHCx-BVa36cX0bzt-82" value="WorkTime" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;labelBackgroundColor=none;fontColor=#393C56;strokeWidth=2;" vertex="1" parent="0DGqWHCx-BVa36cX0bzt-80">
