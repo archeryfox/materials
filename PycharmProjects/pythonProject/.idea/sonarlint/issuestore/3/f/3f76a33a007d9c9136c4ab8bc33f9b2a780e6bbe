@@ -1,0 +1,9 @@
+
+lpython:S116"PRename this field "__Weight" to match the regular expression ^[_a-z][_a-z0-9]*$.(›¥Ó÷ùÿÿÿÿ
+fpython:S116"ORename this field "__Count" to match the regular expression ^[_a-z][_a-z0-9]*$.(±ÚâŒ
+fpython:S116"ORename this field "__Price" to match the regular expression ^[_a-z][_a-z0-9]*$.(Èˆ½“
+mpython:S100	"QRename method "getUnitWeight" to match the regular expression ^[a-z_][a-z0-9_]*$.(²×è«ùÿÿÿÿ
+kpython:S100"ORename method "getQuantity" to match the regular expression ^[a-z_][a-z0-9_]*$.(ä¸È’ûÿÿÿÿ
+hpython:S100"LRename method "getPrice" to match the regular expression ^[a-z_][a-z0-9_]*$.(Å£›Ìüÿÿÿÿ
+cpython:S100"LRename method "SortInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(¹½›Þ
+hpython:S100/"LRename method "showInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÉŠêÈÿÿÿÿÿ
